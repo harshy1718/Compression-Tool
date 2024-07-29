@@ -51,7 +51,7 @@ This project implements Huffman coding, a lossless data compression algorithm. I
 - `README.md`: This file, providing an overview and instructions for the project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [[LICENSE](LICENSE)](https://github.com/harshy1718/Compression-Tool/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 - The Huffman coding algorithm was invented by David A. Huffman while he was a Ph.D. student at MIT.
